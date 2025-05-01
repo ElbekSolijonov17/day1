@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "inter400";
+    src: url(fonts/Inter_28pt-Regular.ttf);
+}
+@font-face {
+    font-family: "inter500";
+    src: url(fonts/Inter_28pt-Medium.ttf);
+}
+@font-face {
+    font-family: "play400";
+    src: url(fonts/Play-Regular.ttf);
+}
+@font-face {
+    font-family: "play700";
+    src: url(fonts/Play-Bold.ttf);
+}
